@@ -1,0 +1,23 @@
+.findcmp {
+     position: relative;
+     padding: 20px;
+     width: fit-content;
+     border-radius: 20px;
+     border-style: ridge;
+     background-color:honeydew;
+     top: 50px;
+}
+
+input {
+     border-radius: 10px;
+}
+
+/* #fil {
+     padding-left: 65px;
+     padding-right: 65px;
+     border-radius: 10px;
+} */
+
+button {
+     border-radius: 10px;
+}

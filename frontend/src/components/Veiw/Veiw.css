@@ -1,0 +1,14 @@
+#wrapper {
+    border: 1px solid black;
+    overflow: hidden; /* will contain if #first is longer than #second */
+
+}
+#first {
+    position: fixed;
+    padding-top: 20px;
+    float:left;
+}
+#second {
+     padding-left: 250px;
+    overflow: hidden;
+}

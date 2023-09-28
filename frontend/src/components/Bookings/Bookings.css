@@ -1,0 +1,23 @@
+.bks {
+     border-style: solid;
+     border-color: darkgray;
+     border-width: 1px;
+     margin : 20px;
+     background-color:springgreen;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#cnt {
+     text-align: center;
+     margin: 20px;
+}
+
+#another {
+     border-width: 1px;
+     margin : 5px;
+     position: relative;
+     left: 100px;
+     align-content: center;
+     padding-left: 500px;
+     padding-right: 500px;
+}

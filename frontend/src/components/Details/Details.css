@@ -1,0 +1,34 @@
+.card {
+     border-style: solid;
+     border-color: rgb(116, 124, 131);
+     padding: 5px;
+     border-width: 1px;
+     margin: 10px;
+}
+
+.sz {
+     height: 200px; width: 300px;
+     padding: 15px;
+}
+
+.content {
+     position: absolute;
+     padding-left: 300px;
+     padding-top: 10px;
+}
+
+#ov {
+     overflow: hidden;
+     width: 200px;
+}
+
+#fc {
+     overflow: hidden;
+}
+
+#bk {
+     position: absolute;
+     left: 950px;
+     bottom: 60px;
+}
+

@@ -1,0 +1,24 @@
+#cm {
+     position: relative;
+     top: 130px;
+     left: 580px;
+}
+
+#txt {
+     position: fixed;
+     top: 400px;
+     left: 430px;
+}
+
+.bh {
+     display: inline-block;
+}
+
+.tick {
+     max-height: 200px; max-width: 250px;
+     padding: 15px;
+}
+
+#clickHere {
+     cursor: pointer;
+}
